@@ -1,5 +1,3 @@
-  WordPress › ReadMe 
-
 [![Bowe WordPress](wp-admin/images/wordpress-logo.png)](http://bowe.com.br/)
 ==========================================================================
 
